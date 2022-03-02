@@ -13,22 +13,22 @@ body
 main
 {
     background-color: #FFFFFF;
-    width: 555px;
+    width: 600px;
     margin: auto;
     padding: 20px;
     box-shadow: 3px 3px 5px #000000;
-    border-radius: 20px;
+    border-radius: 30px;
 }
 
-h2
+h1
 {
-    font-size: 2em;
+    font-size: 2rem;
     color: rgb(126, 36, 209);
 }
 
 h2
 {
-    font-size: 1.5em;
+    font-size: 1.5rem;
     color: rgb(126, 36, 209);
 }
 
