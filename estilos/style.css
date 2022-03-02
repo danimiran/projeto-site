@@ -13,8 +13,38 @@ body
 main
 {
     background-color: #FFFFFF;
-    width: 500px;
+    width: 555px;
     margin: auto;
-    padding: 10px;
+    padding: 20px;
     box-shadow: 3px 3px 5px #000000;
+    border-radius: 20px;
+}
+
+h2
+{
+    font-size: 2em;
+    color: rgb(126, 36, 209);
+}
+
+h2
+{
+    font-size: 1.5em;
+    color: rgb(126, 36, 209);
+}
+
+img.lado
+{
+    float: right;
+}
+
+a
+{
+    text-decoration: none;
+    color: rgb(109, 28, 184);
+}
+
+a:hover
+{
+    text-decoration: underline;
+    color: rgb(89, 18, 155);
 }
